@@ -1,7 +1,7 @@
 
-# 하루에 30분씩 풀든 못풀든 한문제씩 도전하기!
-- 대신 주석 , doc string , type hinting 연습하기
+## 하루에 30분씩 풀든 못풀든 한문제씩 도전하기!
+#### 대신 주석 , doc string , type hinting 연습하기
 
 
-### (1016 : Hash - 전화번호 목록 (lev2))[main/programmers/Hash/전화번호%20목록.py]
+### (1016 : Hash - 전화번호 목록 (lev2))[./Hash/전화번호%20목록.py]
 한줄평 : 추가된 예외에 대한 분기처리 실패, 다시 생각해볼 것
